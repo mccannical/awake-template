@@ -23,21 +23,16 @@ export default {
       link: '/about'
     },
     {
-      name: 'Contact',
-      link: '/contact'
+      name: 'Data',
+      link: '/data'
     },
     {
-      name: 'Categories',
-      link: '/categories'
+      name: 'Financials',
+      link: '/fin'
     },
     {
       name: 'Github Repo',
       link: 'https://github.com/mccannical/awake-template',
-      target: '_blank'
-    },
-    {
-      name: 'Awake+ Premium',
-      link: 'https://awake-premium-lp.netlify.com/',
       target: '_blank'
     }
   ],
