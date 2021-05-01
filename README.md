@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/07b07fc1-e886-4d4c-91e9-62a056fdef45/deploy-status)](https://app.netlify.com/sites/objective-mcnulty-9558b0/deploys)
+
 Awake is a Nuxt.js template for generating a beautifully robust static site with blog. 
 
 # Features
