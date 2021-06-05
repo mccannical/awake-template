@@ -1,6 +1,6 @@
 ---
 title: ResourceGrid.vue
-subtitle: Easily Display Grid of Posts/Categories Throughout the Site
+subtitle: asdfsadfasdf
 category:
   - About Awake
 author: Daniel Kelly
