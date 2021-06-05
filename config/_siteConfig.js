@@ -11,7 +11,7 @@ import theCMS from '../cms/netlify/cms'
 export default {
   siteName: 'Basement Garden',
   tagline: 'Gardening adventures in my basement',
-  featureImage: '/uploads/home-hero.jpg',
+  featureImage: 'https://picam-garden-jesse.s3.us-east-2.amazonaws.com/img/plants.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
@@ -54,7 +54,7 @@ export default {
 
   // Disqus
   disqus: {
-    on: true,
+    on: false,
     loadingStrategy: 'button', // Options: onload, lazy, button
     siteShortName: 'blog-danielkelly-io' // 'blog-danielkelly-io'
   },
