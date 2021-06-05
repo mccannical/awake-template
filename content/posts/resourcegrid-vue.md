@@ -3,8 +3,8 @@ title: Pruning
 subtitle: asdfsadfasdf
 category:
   - About Awake
-author: Daniel Kelly
-date: 2019-08-02T04:27:56.800Z
+author: j
+date: 2021-06-05T17:42:32.919Z
 featureImage: /uploads/plants.jpg
 ---
 The `ResourceGrid` powers the grid display of both posts and categories in the Awake template. It's a powerful, fast, and flexible component to grab a grid of any size or content when you need it.
