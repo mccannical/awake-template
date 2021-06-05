@@ -11,7 +11,7 @@ import theCMS from '../cms/netlify/cms'
 export default {
   siteName: 'Basement Garden',
   tagline: 'Gardening adventures in my basement',
-  featureImage: 'plants.jpg',
+  featureImage: '/uploads/plants.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
