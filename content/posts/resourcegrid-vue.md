@@ -1,5 +1,5 @@
 ---
-title: ResourceGrid.vue
+title: Pruning
 subtitle: asdfsadfasdf
 category:
   - About Awake
